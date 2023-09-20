@@ -27,3 +27,11 @@ about it at the start of each recursive call.
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. You do not need to prove that the invariant is correct. Add
 your answer to this markdown file.
+
+## Answer
+
+Invariant: the items in array "arr" make a Fibonacci sequence.
+
+I believe this is a good invariant because it should be true every time I run the loop since I am building a Fibonacci pattern one number at a time.  Also, if the invariant is true for every iteration, it should return the complete Fibonacci array at the end and succeed in its function.
+
+
